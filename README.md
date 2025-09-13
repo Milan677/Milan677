@@ -3,7 +3,7 @@
 
 <!-- <img align="right" alt="coding" width="100%" height="350"
      src="https://drive.google.com/uc?export=view&id=174OwPyYMU74LOZY2sg6zcGRIcLK5s71_">-->
-<img src="https://github.com/USERNAME/REPO/blob/main/WhatsApp%20Image%202025-09-13%20at%2013.42.07.jpeg?raw=true" 
+<img src="https://drive.google.com/uc?export=view&id=174OwPyYMU74LOZY2sg6zcGRIcLK5s71_" 
      alt="Profile Photo" 
      style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 300px; display: block; margin: 20px auto;">
 
