@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=174OwPyYMU74LOZY2sg6zcGRIcLK5s71_" 
        alt="Profile Photo" 
-       style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 400px; height: 500px">
+       style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 450px; height: 500px">
 </p>
 
 
