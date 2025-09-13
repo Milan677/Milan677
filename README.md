@@ -17,7 +17,8 @@
 <!--   <img align="right"  alt="codding" width="300" margin-top="50" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Milan677&label=Profile%20views&color=0e75b6&style=flat" alt="Milan677" /> </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hi!+My+self+Kamlesh+Das+🏽;I+am+a+Full-stack+Node+developer+🏻‍💻;Interested+in+Coding+🏃‍♂️;Curious+to+learn+new+things!&font=Fira+Code&center=true&width=600&height=45&color=37bcf7&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi!+My+self+Kamlesh+Das;I+am+a+Full-stack+Node+developer;Interested+in+Coding;Curious+to+learn+new+things!&font=Fira+Code&center=true&width=600&height=45&color=37bcf7&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
+
 </p>
 
       
