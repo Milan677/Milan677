@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kamlesh Das</h1>
 <h3 align="center">A passionate FullStack Developer based in India</h3>
 
- <img align="center" alt="coding" width="50%" height="450"
-     src="https://drive.google.com/uc?export=view&id=174OwPyYMU74LOZY2sg6zcGRIcLK5s71_">
+<!--  <img align="center" alt="coding" width="50%" height="450"
+     src="https://drive.google.com/uc?export=view&id=174OwPyYMU74LOZY2sg6zcGRIcLK5s71_"> -->
 
+<p align="center">
+  <img src="https://github.com/USERNAME/REPO/blob/main/WhatsApp%20Image%202025-09-13%20at%2013.42.07.jpeg?raw=true" 
+       alt="Profile Photo" 
+       style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 300px;">
+</p>
 
 
 
