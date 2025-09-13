@@ -29,13 +29,49 @@
  ## About me:-
  
 
-- 🔭 I’m currently working on **FullStack Development**
+# 🚀 Work & Role
 
-- 💬 Ask me about **HTML , CSS , NodeJs , Express , MongoDB , DSA , JavaScript**
+- 💼 **Currently working as:** Associate Consultant at [Dreamwave Innovation](https://dreamwaveinnovation.com/) 
 
-- 🌱 I’m currently learning **NodeJs , DSA**
+- 🛠 **Specializing in:** Backend Development with **Node.js & Django**  
 
-- 👯 I’m looking to collaborate on **New Projects**
+- 🧩 **Experience:** Building scalable APIs, microservices, and real-time applications  
+
+---
+
+# 🌱 Learning & Growth
+
+- 📚 Expanding knowledge in **System Design & Cloud Architecture** (AWS, Docker, Kubernetes)  
+
+- 🤖 Exploring **AI integration into backend systems**  
+
+- 🏗 Passionate about writing **clean, maintainable code** and following **best practices**  
+
+---
+
+# 💡 Interests
+
+- ⚡ Love **optimizing backend performance** & **database queries**  
+
+- 🎯 Interested in **Open Source Contributions**  
+
+- 🗄 Big fan of **Database Design & Optimization** (SQL & NoSQL)  
+
+- 🔍 Curious about **DevOps & Automation** to streamline deployments  
+
+---
+
+# 📊 Fun / Unique Personal Points
+
+- 🎮 Outside of coding, I enjoy **gaming, fitness, music, and problem-solving**  
+
+- 🌍 Believe in **continuous learning & innovation**  
+
+- ✨ **Motto:** “Code for impact, not just output”  
+
+---
+
+# 🔗 References / Portfolio
 
 - 👨‍💻 All of my projects are available at [https://Milan677.github.io/](https://Milan677.github.io/)
 
