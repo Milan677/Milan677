@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kamlesh Das</h1>
 <h3 align="center">A passionate FullStack Developer based in India</h3>
 
- <img align="right"  alt="codding" width="100%" height="350"  src="https://drive.google.com/file/d/174OwPyYMU74LOZY2sg6zcGRIcLK5s71_/view?usp=drive_link">
+ <img align="right"  alt="codding" width="100%" height="350"  src="https://drive.google.com/uc?export=view&id=174OwPyYMU74LOZY2sg6zcGRIcLK5s71_
+">
 
 
 <!--   <img align="right"  alt="codding" width="300" margin-top="50" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
