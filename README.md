@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamlesh Das</h1>
 <h3 align="center">A passionate FullStack Developer based in India</h3>
 
-<img align="right" alt="coding" width="50%" height="350"
+<img align="right" alt="coding" width="100%" height="350"
      src="https://drive.google.com/uc?export=view&id=174OwPyYMU74LOZY2sg6zcGRIcLK5s71_">
 
 
